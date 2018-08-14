@@ -128,7 +128,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -158,7 +158,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -188,7 +188,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -218,7 +218,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -248,7 +248,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -303,7 +303,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
@@ -314,7 +314,7 @@
   top:18px;
   width:373px;
   height:51px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
@@ -434,7 +434,7 @@
   top:0px;
   width:124px;
   height:56px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -460,7 +460,7 @@
   top:0px;
   width:124px;
   height:56px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -486,7 +486,7 @@
   top:0px;
   width:123px;
   height:56px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -723,7 +723,7 @@
   top:295px;
   width:70px;
   height:70px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -825,7 +825,7 @@
   top:0px;
   width:47px;
   height:30px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -874,7 +874,7 @@
   top:30px;
   width:47px;
   height:36px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -923,7 +923,7 @@
   top:66px;
   width:47px;
   height:36px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -1217,7 +1217,7 @@
   top:485px;
   width:70px;
   height:70px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1511,7 +1511,7 @@
   top:0px;
   width:45px;
   height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -1560,7 +1560,7 @@
   top:25px;
   width:45px;
   height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -1609,7 +1609,7 @@
   top:50px;
   width:45px;
   height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -1658,7 +1658,7 @@
   top:75px;
   width:45px;
   height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -1914,7 +1914,7 @@
   top:25px;
   width:25px;
   height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -1923,7 +1923,7 @@
 #u184 {
   position:absolute;
   left:2px;
-  top:-16px;
+  top:-10px;
   width:21px;
   word-wrap:break-word;
 }
