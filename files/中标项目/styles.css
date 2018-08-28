@@ -60,7 +60,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
@@ -71,7 +71,7 @@
   top:18px;
   width:373px;
   height:51px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   color:#FFFFFF;
@@ -103,7 +103,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -133,7 +133,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -163,7 +163,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -193,7 +193,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -223,7 +223,7 @@
   top:0px;
   width:74px;
   height:50px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:12px;
@@ -430,7 +430,7 @@
   top:25px;
   width:25px;
   height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
@@ -443,51 +443,70 @@
   width:21px;
   word-wrap:break-word;
 }
-.u1103_img {
+.u1103 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  touch-action:none;
+}
+.u1103_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-image:none;
+}
+.u1103_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+.u1104_img {
   position:absolute;
   left:0px;
   top:0px;
   width:231px;
   height:50px;
 }
-.u1103 {
+.u1104 {
   position:absolute;
   left:0px;
-  top:2px;
+  top:0px;
   width:230px;
   height:49px;
   font-size:10px;
   color:#000000;
   text-align:left;
 }
-.u1104 {
+.u1105 {
   position:absolute;
   left:2px;
   top:19px;
   width:226px;
   word-wrap:break-word;
 }
-.u1105_img {
+.u1106_img {
   position:absolute;
   left:0px;
   top:0px;
   width:51px;
   height:50px;
 }
-.u1105 {
+.u1106 {
   position:absolute;
   left:230px;
-  top:2px;
+  top:0px;
   width:50px;
   height:49px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:11px;
   color:#FF0000;
   text-align:left;
 }
-.u1106 {
+.u1107 {
   position:absolute;
   left:2px;
   top:16px;
@@ -495,24 +514,24 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-.u1107_img {
+.u1108_img {
   position:absolute;
   left:0px;
   top:0px;
   width:41px;
   height:50px;
 }
-.u1107 {
+.u1108 {
   position:absolute;
   left:280px;
-  top:2px;
+  top:0px;
   width:40px;
   height:49px;
   font-size:10px;
   color:#000000;
   text-align:left;
 }
-.u1108 {
+.u1109 {
   position:absolute;
   left:2px;
   top:16px;
@@ -520,24 +539,24 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-.u1109_img {
+.u1110_img {
   position:absolute;
   left:0px;
   top:0px;
   width:46px;
   height:50px;
 }
-.u1109 {
+.u1110 {
   position:absolute;
   left:319px;
-  top:2px;
+  top:0px;
   width:45px;
   height:49px;
   font-size:10px;
   color:#000000;
   text-align:left;
 }
-.u1110 {
+.u1111 {
   position:absolute;
   left:2px;
   top:16px;
@@ -626,111 +645,111 @@
   border:none;
   border-radius:0px;
 }
-#u1111 {
+#u1112 {
   position:absolute;
   left:26px;
   top:72px;
   width:367px;
   height:35px;
 }
-#u1112_img {
+#u1113_img {
   position:absolute;
   left:0px;
   top:0px;
   width:222px;
   height:30px;
 }
-#u1112 {
+#u1113 {
   position:absolute;
   left:0px;
   top:0px;
   width:222px;
   height:30px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
   color:#FFFFFF;
 }
-#u1113 {
+#u1114 {
   position:absolute;
   left:2px;
   top:10px;
   width:218px;
   word-wrap:break-word;
 }
-#u1114_img {
+#u1115_img {
   position:absolute;
   left:0px;
   top:0px;
   width:48px;
   height:30px;
 }
-#u1114 {
+#u1115 {
   position:absolute;
   left:222px;
   top:0px;
   width:48px;
   height:30px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
   color:#FFFFFF;
 }
-#u1115 {
+#u1116 {
   position:absolute;
   left:2px;
   top:4px;
   width:44px;
   word-wrap:break-word;
 }
-#u1116_img {
+#u1117_img {
   position:absolute;
   left:0px;
   top:0px;
   width:47px;
   height:30px;
 }
-#u1116 {
+#u1117 {
   position:absolute;
   left:270px;
   top:0px;
   width:47px;
   height:30px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
   color:#FFFFFF;
 }
-#u1117 {
+#u1118 {
   position:absolute;
   left:2px;
   top:10px;
   width:43px;
   word-wrap:break-word;
 }
-#u1118_img {
+#u1119_img {
   position:absolute;
   left:0px;
   top:0px;
   width:45px;
   height:30px;
 }
-#u1118 {
+#u1119 {
   position:absolute;
   left:317px;
   top:0px;
   width:45px;
   height:30px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'Arial Negreta', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:10px;
   color:#FFFFFF;
 }
-#u1119 {
+#u1120 {
   position:absolute;
   left:2px;
   top:10px;
